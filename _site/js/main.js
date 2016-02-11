@@ -329,6 +329,24 @@ var cities = [{
     {
       "type": "Feature",
       "properties": {
+        "city": "bonn",
+        "year": "2015",
+        "type": "fellowship",
+        "story": "summit",
+        
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.100944519042969,
+          50.73688970495706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "city": "freiburg",
         "year": "2015",
         "type": "fellowship",

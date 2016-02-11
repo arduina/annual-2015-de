@@ -12,12 +12,3 @@ Run
 ---
 
     jekyll serve
-
-To-do
----
-
-	* Mapbox: display & update data
-	* image sizes
-	* svgs sizes
-	* missing texts
-	* English version (when finished)
