@@ -7,9 +7,6 @@ var cities = [{
       "properties": {
         "city": "berlin",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -25,9 +22,6 @@ var cities = [{
       "properties": {
         "city": "hamburg",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -43,9 +37,6 @@ var cities = [{
       "properties": {
         "city": "muenster",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -61,9 +52,6 @@ var cities = [{
       "properties": {
         "city": "paderborn",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -79,9 +67,6 @@ var cities = [{
       "properties": {
         "city": "leipzig",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -97,9 +82,6 @@ var cities = [{
       "properties": {
         "city": "dresden",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -115,9 +97,6 @@ var cities = [{
       "properties": {
         "city": "chemnitz",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -133,9 +112,6 @@ var cities = [{
       "properties": {
         "city": "koeln",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -151,9 +127,6 @@ var cities = [{
       "properties": {
         "city": "giessen",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -169,9 +142,6 @@ var cities = [{
       "properties": {
         "city": "heilbronn",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -187,9 +157,6 @@ var cities = [{
       "properties": {
         "city": "stuttgart",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -205,9 +172,6 @@ var cities = [{
       "properties": {
         "city": "ulm",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -223,9 +187,6 @@ var cities = [{
       "properties": {
         "city": "muenchen",
         "year": "2014",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -241,9 +202,6 @@ var cities = [{
       "properties": {
         "city": "magdeburg",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -259,9 +217,6 @@ var cities = [{
       "properties": {
         "city": "jena",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -277,9 +232,6 @@ var cities = [{
       "properties": {
         "city": "frankfurt",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -295,9 +247,6 @@ var cities = [{
       "properties": {
         "city": "wuppertal",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -313,9 +262,6 @@ var cities = [{
       "properties": {
         "city": "karlsruhe",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -331,9 +277,6 @@ var cities = [{
       "properties": {
         "city": "bonn",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -349,9 +292,6 @@ var cities = [{
       "properties": {
         "city": "freiburg",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -367,9 +307,6 @@ var cities = [{
       "properties": {
         "city": "ruhr",
         "year": "2015",
-        "type": "fellowship",
-        "story": "summit",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -385,7 +322,6 @@ var cities = [{
       "properties": {
         "city": "kassel",
         "year": "2016",
-        
         "marker-color": "#e87d2b"
       },
       "geometry": {
@@ -440,6 +376,21 @@ var cities = [{
         "coordinates": [
           7.21698760986328,
           51.4811690848672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "hannover",
+        "year": "2016",
+        "marker-color": "#e87d2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.739036560058592,
+          52.374760798535036
         ]
       }
     },
